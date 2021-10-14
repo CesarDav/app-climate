@@ -1,4 +1,4 @@
-# weather app made in node js
+# Weather app made in node js
 
 ## You just need to have node installed and run the command `npm install` in the root of the project.
 
